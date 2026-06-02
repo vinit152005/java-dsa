@@ -12,14 +12,9 @@ public class pyramidPattern {
                 j++;
             }
             int k = 0;
-            while(k <= i){
+            while(k <= 2*i){
                 System.out.print("* ");
                 k++;
-            }
-            int z = 0;
-            while(z<i){
-                System.out.print("* ");
-                z++;
             }
             System.out.println();
             i++;
