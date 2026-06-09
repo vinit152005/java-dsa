@@ -1,3 +1,5 @@
+package BasicMathProblems;
+
 import java.util.Scanner;
 public class countDigits {
     static int count(int num){

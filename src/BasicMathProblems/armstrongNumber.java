@@ -1,3 +1,5 @@
+package BasicMathProblems;
+
 import java.util.*;
 public class armstrongNumber {
     static int count(int num){

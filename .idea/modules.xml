@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayQuestion/ArrayQuestion.iml" filepath="$PROJECT_DIR$/ArrayQuestion/ArrayQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA DSA.iml" filepath="$PROJECT_DIR$/JAVA DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursionPatternPrograms/RecursionPatternPrograms.iml" filepath="$PROJECT_DIR$/RecursionPatternPrograms/RecursionPatternPrograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicMathsProgram/basicMathsProgram.iml" filepath="$PROJECT_DIR$/basicMathsProgram/basicMathsProgram.iml" />

@@ -1,3 +1,5 @@
+package RecursionProblems;
+
 import java.util.Scanner;
 public class FirstAndLastOccurrence {
     public static int first = -1;
