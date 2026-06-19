@@ -1,4 +1,4 @@
-package ArrayQuestion;
+package BinarySearch;
 
 public class nextGreatestLetter {
     public char nextGreatestLetter(char[] letters, char target) {

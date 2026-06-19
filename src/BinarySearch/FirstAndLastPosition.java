@@ -1,4 +1,4 @@
-package ArrayQuestion;
+package BinarySearch;
 
 public class FirstAndLastPosition {
         public int[] searchRange(int[] nums, int target) {
